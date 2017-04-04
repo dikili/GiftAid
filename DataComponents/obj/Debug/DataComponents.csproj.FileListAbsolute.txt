@@ -1,0 +1,9 @@
+C:\Source\JustGiving\Recruitment-Test\DataComponents\bin\Debug\DataComponents.dll
+C:\Source\JustGiving\Recruitment-Test\DataComponents\bin\Debug\DataComponents.pdb
+C:\Source\JustGiving\Recruitment-Test\DataComponents\obj\Debug\DataComponents.dll
+C:\Source\JustGiving\Recruitment-Test\DataComponents\obj\Debug\DataComponents.pdb
+C:\Source\GiftAid\DataComponents\bin\Debug\DataComponents.dll
+C:\Source\GiftAid\DataComponents\bin\Debug\DataComponents.pdb
+C:\Source\GiftAid\DataComponents\obj\Debug\DataComponents.csprojResolveAssemblyReference.cache
+C:\Source\GiftAid\DataComponents\obj\Debug\DataComponents.dll
+C:\Source\GiftAid\DataComponents\obj\Debug\DataComponents.pdb
